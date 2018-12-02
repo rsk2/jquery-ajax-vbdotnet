@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AjaxSampleWebApp", "SampleAjaxApp\AjaxSampleWebApp.vbproj", "{ED02B6A1-0977-4FFC-8C61-D5D76999992B}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AjaxSampleWebApp", "AjaxSampleWebApp\AjaxSampleWebApp.vbproj", "{ED02B6A1-0977-4FFC-8C61-D5D76999992B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
