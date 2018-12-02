@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Base.aspx.vb" Inherits="SampleAjaxApp.Base" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Default.aspx.vb" Inherits="SampleAjaxApp.Base" %>
 
 <!DOCTYPE html>
 

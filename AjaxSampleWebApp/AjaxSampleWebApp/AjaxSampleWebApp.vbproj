@@ -81,16 +81,16 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Base.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebMethods\Items.asmx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Base.aspx.designer.vb">
-      <DependentUpon>Base.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Base.aspx.vb">
-      <DependentUpon>Base.aspx</DependentUpon>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
